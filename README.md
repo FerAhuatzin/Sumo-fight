@@ -37,4 +37,4 @@
 - Arctic
 
 ## Credits
-Fernando Ahuatzin, Ladislao Martínez
+Fernando Ahuatzin, Ricardo Ladislao Martínez
